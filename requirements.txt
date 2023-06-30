@@ -1,0 +1,9 @@
+tensorflow==2.10.0
+matplotlib
+opencv-contrib-python
+opencv-python
+ipykernel
+scikit-learn
+pandas
+plotly
+nbformat
